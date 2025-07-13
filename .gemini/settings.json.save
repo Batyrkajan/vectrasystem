@@ -1,0 +1,8 @@
+{
+  "theme": "GitHub",
+  "sandbox": "docker",
+  "autoAccept": false,
+  "contextFileName": "GEMINI.md",
+  "usageStatisticsEnabled": true
+}
+
